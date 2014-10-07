@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the concours_photos feature.
+ */
+
+include_once 'concours_photos.features.inc';
